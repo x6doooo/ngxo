@@ -1,0 +1,38 @@
+{
+  "name": "ngxo",
+  "description": "用于构建Nginx+Node.js应用",
+  "preferGlobal": true,
+  "keywords": [
+    "nginx",
+    "devtools",
+    "proxy",
+    "reverse-proxy",
+    "development"
+  ],
+  "version": "0.0.1",
+  "author": "Dx.Yang <x6doooo@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/x6doooo/ngxo.git"
+  },
+  "bugs": {
+    "url": "http://github.com/x6doooo/ngxo/issues"
+  },
+  "dependencies": {
+    "commander": "2.2.0",
+    "colors": "latest",
+    "download": "latest"
+  },
+  "license": [
+    {
+      "type" : "MIT",
+      "url" : "https://github.com/x6doooo/ngxo/raw/master/LICENSE-MIT"
+    }
+  ],
+  "engines": [
+    "node >= 0.10.0"
+  ],
+  "main": "./lib/ngxo.js",
+  "bin": "./bin/ngxo",
+  "homepage": "https://github.com/x6doooo/ngxo"
+}
