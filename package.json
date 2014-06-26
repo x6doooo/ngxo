@@ -1,6 +1,6 @@
 {
   "name": "ngxo",
-  "description": "用于构建Nginx+Node.js应用",
+  "description": "命令行工具，用于构建Nginx+Node.js应用",
   "preferGlobal": true,
   "keywords": [
     "nginx",
@@ -21,7 +21,8 @@
   "dependencies": {
     "commander": "2.2.0",
     "colors": "latest",
-    "download": "latest"
+    "download": "latest",
+    "mocha": "latest"
   },
   "license": [
     {
