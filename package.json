@@ -22,6 +22,7 @@
     "commander": "2.2.0",
     "colors": "latest",
     "download": "latest",
+    "cli-table": "latest",
     "mocha": "latest"
   },
   "license": [
