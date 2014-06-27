@@ -1,6 +1,9 @@
 .DS_Store
 .idea
+*.swp
+*.swo
 dev
+others
 node_modules
 .npmignore
 .gitignore
