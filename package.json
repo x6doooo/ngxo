@@ -23,7 +23,8 @@
     "colors": "latest",
     "download": "latest",
     "cli-table": "latest",
-    "mocha": "latest"
+    "mocha": "latest",
+    "profiler": "latest"
   },
   "license": [
     {
