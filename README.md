@@ -1,5 +1,20 @@
 ngxo
 ===
-命令行工具，用于构建Nginx+Node.js应用
+a framework for building web applications using Nginx + Node.js
+
+
+#Introduction
+
+#Installation
+
+```bash
+$ npm install -g n
+$ n 0.11.13
+$ node --harmony ngxo-app.js
+```
+
+
+
+
 
 
